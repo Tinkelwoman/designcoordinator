@@ -1,4 +1,4 @@
-<h1># Help NYC bring digital design to everyone</h1>
+<h1>Help NYC bring digital design to everyone</h1>
 New York City’s government is hiring a digital design coordinator to help build trustworthy public services by:
 <ul>
 <li>Creating design standards</li>
